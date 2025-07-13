@@ -1,5 +1,5 @@
-# this indicate comments
-#Pig Dice Game Using Python
+# Pig Dice Game Using Python
+
 import random
 def roll():
     min_value=1
